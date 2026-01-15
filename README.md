@@ -1,2 +1,8 @@
-# expense-tracker-django
-A Django-based Expense Tracker application with user authentication and expense management.
+# Expense Tracker
+
+## Features
+## Tech Stack
+## Screenshots
+## How to Run Locally
+## Future Improvements
+
